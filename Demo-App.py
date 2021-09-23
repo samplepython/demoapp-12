@@ -22,7 +22,7 @@ def contact_us():
 
 if __name__ == '__main__':
     current_working_dir = str(Path.cwd())
-    seed_sowing_path = current_working_dir+'/Seed_Sowing'
+    seed_sowing_path = current_working_dir+'/Seed_Sowing/'
 
     from SeedSowing import seed_sowing
 
