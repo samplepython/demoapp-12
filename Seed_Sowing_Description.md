@@ -1,0 +1,4 @@
+- ### Seed sowing is crucial task for farmer during the plantation seasons Especially vegetable farmer does not have any seed sowing machine for tiny seeds to sow in their seed bed, so they following traditional practices
+- ### In traditional process, we cannot expect consistency and accuracy in the operation
+- ### Automated the tiny seed sowing operation on the nursery seed bed by Innovating portable machine to achieve consistency and accuracy
+- ### The price of the machine economic, hence it is affordable to small and medium farmers
