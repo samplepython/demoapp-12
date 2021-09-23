@@ -9,7 +9,7 @@ def seed_sowing():
     if seed_sowing_machine_checkbox:
         st.header('This is Seed Sowing Machine Section')
         # Description
-        seed_sowing_description_file = main_working_dir+'/Seed_Sowing/Seed_Sowing_Description.md'
+        seed_sowing_description_file = main_working_dir+'/Seed_Sowing/StaticFiles/Seed_Sowing_Description.md'
         markdown_seed_sowing_description_text = read_markdown_file(seed_sowing_description_file)
         st.markdown(markdown_seed_sowing_description_text, unsafe_allow_html=False)
 
