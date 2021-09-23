@@ -23,7 +23,7 @@ if __name__ == '__main__':
     current_working_dir = str(Path.cwd())
     basic_src_path = current_working_dir+'/src'
     sys.path.insert(0, basic_src_path)
-    seed_sowing_path = current_working_dir+'/seed_sowing'
+    seed_sowing_path = current_working_dir+'/seed_sowing/src'
     sys.path.insert(0, seed_sowing_path)
     from BasicFunctions import read_markdown_file
     from SeedSowing import seed_sowing
